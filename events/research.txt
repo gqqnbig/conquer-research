@@ -2,8 +2,8 @@
 
 country_event = {
 	id = conquer_research.jap
-	title = conquer_research.jpa.t
-	desc = conquer_research.jpa.t
+	title = conquer_research.jap.t
+	desc = conquer_research.jap.t
 	picture = GFX_report_event_chinese_army_training	
 	
 	fire_only_once = yes
@@ -25,8 +25,8 @@ country_event = {
 
 country_event = {
 	id = conquer_research.jap2
-	title = conquer_research.jpa.t
-	desc = conquer_research.jpa.t
+	title = conquer_research.jap.t
+	desc = conquer_research.jap.t
 	picture = GFX_report_event_chinese_army_training	
 	
 	fire_only_once = yes
