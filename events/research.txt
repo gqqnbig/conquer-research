@@ -18,7 +18,7 @@ country_event = {
 	}
 
 	option = {
-		name = china.104.a
+		name = soviet.4.a
 		add_research_slot = 1
 	}
 }
@@ -64,7 +64,7 @@ country_event = {
 	}
 
 	option = {
-		name = china.104.a
+		name = soviet.2.a
 		add_research_slot = 1
 	}
 }
@@ -110,7 +110,7 @@ country_event = {
 	}
 
 	option = {
-		name = china.104.a
+		name = soviet.4.a
 		add_research_slot = 1
 	}
 }
@@ -133,7 +133,7 @@ country_event = {
 	}
 
 	option = {
-		name = china.104.a
+		name = soviet.4.a
 		add_research_slot = -1
 	}
 }
