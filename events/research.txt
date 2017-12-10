@@ -1,9 +1,9 @@
 ﻿add_namespace = conquer_research
 
 country_event = {
-	id = conquer_research.jap
-	title = conquer_research.jap.t
-	desc = conquer_research.jap.t
+	id = conquer_research.1
+	title = conquer_research.1.t
+	desc = conquer_research.1.t
 	picture = GFX_report_event_chinese_army_training	
 	
 	fire_only_once = yes
@@ -24,9 +24,9 @@ country_event = {
 }
 
 country_event = {
-	id = conquer_research.jap2
-	title = conquer_research.jap.t
-	desc = conquer_research.jap.t
+	id = conquer_research.2
+	title = conquer_research.2.t
+	desc = conquer_research.2.t
 	picture = GFX_report_event_chinese_army_training	
 	
 	fire_only_once = yes
@@ -47,9 +47,9 @@ country_event = {
 }
 
 country_event = {
-	id = conquer_research.ger
-	title = conquer_research.ger.t
-	desc = conquer_research.ger.t
+	id = conquer_research.3
+	title = conquer_research.3.t
+	desc = conquer_research.3.t
 	picture = GFX_report_event_chinese_army_training	
 	
 	fire_only_once = yes
@@ -70,9 +70,9 @@ country_event = {
 }
 
 country_event = {
-	id = conquer_research.ger2
-	title = conquer_research.ger.t
-	desc = conquer_research.ger.t
+	id = conquer_research.4
+	title = conquer_research.4.t
+	desc = conquer_research.4.t
 	picture = GFX_report_event_chinese_army_training	
 	
 	fire_only_once = yes
@@ -93,9 +93,9 @@ country_event = {
 }
 
 country_event = {
-	id = conquer_research.ita
-	title = conquer_research.ita.t
-	desc = conquer_research.ita.t
+	id = conquer_research.5
+	title = conquer_research.5.t
+	desc = conquer_research.5.t
 	picture = GFX_report_event_chinese_army_training	
 	
 	fire_only_once = yes
@@ -116,9 +116,9 @@ country_event = {
 }
 
 country_event = {
-	id = conquer_research.ita2
-	title = conquer_research.ita.t
-	desc = cconquer_research.ita.t
+	id = conquer_research.6
+	title = conquer_research.6.t
+	desc = cconquer_research.6.t
 	picture = GFX_report_event_chinese_army_training	
 	
 	fire_only_once = yes
