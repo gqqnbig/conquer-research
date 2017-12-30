@@ -5,3 +5,5 @@
  conquer_research.3.d:0 "[From.GetName] 占领了德国的研究机构。 [From.GetLeader] 指示尽快吸收这些研究资源， 即使以后这些设施再被夺去， 我们也不会失去这些资料。"
  conquer_research.4.t:0 "意大利研究机构被占领了"
  conquer_research.4.d:0 "[From.GetName] 占领了意大利的研究机构。 [From.GetLeader] 指示尽快吸收这些研究资源， 即使以后这些设施再被夺去， 我们也不会失去这些资料。"
+ conquer_research.5.t:0 "西班牙研究机构被占领了"
+ conquer_research.5.d:0 "[From.GetName] 占领了西班牙的研究机构。 [From.GetLeader] 指示尽快吸收这些研究资源， 即使以后这些设施再被夺去， 我们也不会失去这些资料。"
