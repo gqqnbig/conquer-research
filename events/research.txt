@@ -24,8 +24,14 @@ country_event = {
 	option = {
 		name = soviet.4.a
 		add_research_slot = 1
-		JAP = { country_event = conquer_research.2 }
+		every_other_country = {
+			limit = {
+				original_tag = JAP
+			}
+			country_event = conquer_research.2
+		}
 	}
+
 }
 
 country_event = {
@@ -68,10 +74,16 @@ country_event = {
 	}
 
 	option = {
-		name = soviet.2.a
+		name = soviet.4.a
 		add_research_slot = 1
-		GER = { country_event = conquer_research.2 }
+		every_other_country = {
+			limit = {
+				original_tag = GER
+			}
+			country_event = conquer_research.2
+		}
 	}
+
 }
 
 country_event = {
@@ -98,6 +110,12 @@ country_event = {
 	option = {
 		name = soviet.4.a
 		add_research_slot = 1
-		ITA = { country_event = conquer_research.2 }
+		every_other_country = {
+			limit = {
+				original_tag = ITA
+			}
+			country_event = conquer_research.2
+		}
 	}
+
 }
