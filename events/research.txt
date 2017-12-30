@@ -67,9 +67,9 @@ country_event = {
 }
 
 country_event = {
-	id = conquer_research.5
-	title = conquer_research.5.t
-	desc = conquer_research.5.d
+	id = conquer_research.4
+	title = conquer_research.4.t
+	desc = conquer_research.4.d
 	picture = GFX_report_event_chinese_army_training	
 	
 	fire_only_once = yes
