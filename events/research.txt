@@ -11,6 +11,10 @@ country_event = {
 	trigger = {
 		has_full_control_of_state = 282
 		NOT = { original_tag = JAP }
+		OR = {
+			has_war = no
+			any_war_score > 40
+		}
 	}
 
 	mean_time_to_happen = {
@@ -53,6 +57,10 @@ country_event = {
 	trigger = {
 		has_full_control_of_state = 64
 		NOT = { original_tag = GER }
+		OR = {
+			has_war = no
+			any_war_score > 40
+		}
 	}
 
 	mean_time_to_happen = {
@@ -77,6 +85,10 @@ country_event = {
 	trigger = {
 		has_full_control_of_state = 2
 		NOT = { original_tag = ITA }
+		OR = {
+			has_war = no
+			any_war_score > 40
+		}
 	}
 
 	mean_time_to_happen = {
