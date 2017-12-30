@@ -62,21 +62,7 @@ country_event = {
 	option = {
 		name = soviet.2.a
 		add_research_slot = 1
-		GER = { country_event = conquer_research.4 }
-	}
-}
-
-country_event = {
-	id = conquer_research.4
-	title = conquer_research.4.t
-	desc = conquer_research.4.t
-	picture = GFX_report_event_chinese_army_training	
-	
-	is_triggered_only = yes
-
-	option = {
-		name = china.104.a
-		add_research_slot = -1
+		GER = { country_event = conquer_research.2 }
 	}
 }
 
@@ -100,20 +86,6 @@ country_event = {
 	option = {
 		name = soviet.4.a
 		add_research_slot = 1
-		ITA = { country_event = conquer_research.6 }
-	}
-}
-
-country_event = {
-	id = conquer_research.6
-	title = conquer_research.6.t
-	desc = cconquer_research.6.t
-	picture = GFX_report_event_chinese_army_training	
-	
-	is_triggered_only = yes
-
-	option = {
-		name = soviet.4.a
-		add_research_slot = -1
+		ITA = { country_event = conquer_research.2 }
 	}
 }
