@@ -10,7 +10,7 @@ country_event = {
 
 	trigger = {
 		has_full_control_of_state = 282
-		NOT = { tag = JAP }
+		NOT = { original_tag = JAP }
 	}
 
 	mean_time_to_happen = {
@@ -52,7 +52,7 @@ country_event = {
 
 	trigger = {
 		has_full_control_of_state = 64
-		NOT = { tag = GER }
+		NOT = { original_tag = GER }
 	}
 
 	mean_time_to_happen = {
@@ -90,7 +90,7 @@ country_event = {
 
 	trigger = {
 		has_full_control_of_state = 2
-		NOT = { tag = ITA }
+		NOT = { original_tag = ITA }
 	}
 
 	mean_time_to_happen = {
